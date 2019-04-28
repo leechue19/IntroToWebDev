@@ -1,0 +1,63 @@
+/*
+Creator: Chue Lee
+Date created: 4/5/19
+Date last modified:
+a0c45e
+*/
+
+.jumbotron {
+	font-family: serif;
+	background-color: #cccccc;
+	margin-bottom: 0;
+}
+
+footer {
+	height: 90px;
+	text-align: center;
+	vertical-align: center;
+	padding: 10px 5px 5px 5px;
+	background-color: #4da6ff;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
+body {
+	background-color: #cccccc;
+}
+
+section {
+	background-color: #4da6ff;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+nav {
+	margin-top: 4px;
+	margin-bottom: 4px;
+	background-color: #4da6ff;
+}
+
+nav a {
+	background-color: #cccccc;
+    color: #fef9ff;
+    padding: 8px;
+    border: thin solid #000000;
+    text-decoration: none;
+    text-align: center;
+	margin-left: 5px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
+nav a:visited {
+	color: purple;
+}
+			
+nav a:hover {
+	font-weight: bold;
+}
+
+nav a:active {
+	text-decoration: none;
+}
+
